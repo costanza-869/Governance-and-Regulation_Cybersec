@@ -77,8 +77,43 @@ Settore finanziario: PCI-DSS, GLBA.
 Settore sanitario: HIPAA.
 La scelta del framework da seguire dipende da vari fattori come requisiti normativi, ambito, obiettivi e risorse disponibili.
 
+**Framework GRC: Governance, Risk Management e Compliance** 
+Il framework GRC (Governance, Risk, Compliance) è un approccio integrato che aiuta le organizzazioni a gestire in modo olistico la governance, il rischio aziendale e la conformità. Questo framework è fondamentale per garantire che un'organizzazione operi in linea con regolamenti, standard di settore e obiettivi aziendali, migliorando al contempo la sicurezza informatica e la resilienza complessiva.
 
+Componenti del GRC
+Governance:
+Definisce la strategia di sicurezza attraverso politiche, standard e framework.
+Monitora le performance tramite metriche per valutare i risultati.
 
+Risk Management:
+Identifica, valuta e prioritizza i rischi.
+Implementa strategie di mitigazione e controlli per gestire i rischi.
+Include il monitoraggio continuo dei rischi e il miglioramento dei piani di gestione del rischio.
+
+Compliance:
+Garantisce che l'organizzazione rispetti leggi, regolamenti e standard.
+Sviluppa programmi di conformità, audit regolari e report per gli stakeholder.
+Include controlli come SSL/TLS per proteggere i dati e patch management per software non aggiornati.
+
+Guida Generica per Sviluppare un Programma GRC:
+Definire scopo e obiettivi:
+
+Determinare l'ambito del programma GRC (es. protezione dei dati dei clienti) e fissare obiettivi (es. ridurre i rischi informatici del 50% in un anno).
+
+Condurre una valutazione dei rischi: identificare e valutare i rischi (es. vulnerabilità a causa di software obsoleti).
+Prioritizzare i rischi e sviluppare strategie per gestirli.
+Creare linee guida per le pratiche di sicurezza (es. politiche sulle password e monitoraggio accessi).
+
+Formare comitati di sicurezza per monitorare i rischi e prendere decisioni strategiche.
+Assegnare ruoli e responsabilità chiare a tutto il personale.
+
+Utilizzare controlli tecnici (es. firewall, sistemi di prevenzione delle intrusioni) e non tecnici (es. formazione del personale).
+
+Stabilire metriche per valutare l'efficacia del programma GRC.
+Usare queste informazioni per migliorare continuamente il programma.
+
+Analizzare incidenti di sicurezza per identificare le cause e prevenire futuri problemi.
+Adattare il programma GRC in base al feedback e ai cambiamenti nel panorama delle minacce.
 
 
 
