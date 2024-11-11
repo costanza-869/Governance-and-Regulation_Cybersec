@@ -155,12 +155,14 @@ Monitoraggio degli accessi non autorizzati.
 Implementazione di misure come firewall per applicazioni web e crittografia.
 Queste normative sono cruciali per proteggere la privacy degli individui, garantire la sicurezza dei dati e mantenere la fiducia dei clienti, oltre a evitare pesanti sanzioni in caso di non conformità.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
 **NIST 800-53** 
 NIST 800-53 è una pubblicazione del National Institute of Standards and Technology (NIST) degli Stati Uniti, intitolata "Security and Privacy Controls for Information Systems and Organisations", che fornisce un catalogo di controlli di sicurezza per proteggere la triade CIA (Confidenzialità, Integrità, Disponibilità) dei sistemi informativi. Questa guida aiuta le organizzazioni a valutare e migliorare la sicurezza e la privacy dei loro sistemi informativi, in conformità con leggi, regolamenti e politiche. Integra le migliori pratiche provenienti da fonti come standard industriali e framework internazionali.
 
 Punti chiave: NIST 800-53 offre un set completo di controlli di sicurezza e privacy, per proteggere le operazioni aziendali, le risorse e il personale da vari rischi, come attacchi intenzionali, errori, disastri naturali e attività di intelligence estera. La Revisione 5 di NIST 800-53 organizza i controlli in 20 famiglie, ciascuna focalizzata su una categoria specifica di preoccupazioni per la sicurezza.
+
+![image](https://github.com/user-attachments/assets/8887a2ef-4150-4eaa-98ef-7149a84d0eef)
 
 Implementazione di un Programma di Sicurezza Basato su NIST 800-53: Una delle famiglie di controlli più rilevanti è quella della "Gestione del Programma", che richiede l'istituzione, l'implementazione e il monitoraggio di programmi di sicurezza informatica e privacy a livello aziendale. I controlli fondamentali per una gestione efficace includono:
 
@@ -170,7 +172,9 @@ Creare una struttura di governance e definire ruoli e responsabilità.
 Monitorare e valutare regolarmente l'implementazione per garantire la conformità.
 Le organizzazioni devono anche stabilire sistemi di monitoraggio per rilevare e risolvere problemi di sicurezza, effettuare valutazioni e audit regolari, e migliorare continuamente l'implementazione dei controlli.
 
-____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+![image](https://github.com/user-attachments/assets/8dc8efdf-8dc0-4f56-b5fa-2954151454b3)
+
+________________________________________________________________________________________________
 **Gestione della Sicurezza delle Informazioni (IS) e Conformità**
 
 La gestione della sicurezza delle informazioni (IS) comprende la pianificazione strategica, l'esecuzione e l'amministrazione continua delle misure di sicurezza per proteggere i beni informativi da accessi, utilizzi, divulgazioni, interruzioni, alterazioni e distruzioni non autorizzate. Include la valutazione e l'identificazione dei rischi, lo sviluppo di controlli e procedure di sicurezza, la pianificazione della risposta agli incidenti e la formazione sulla sicurezza. La conformità, invece, si riferisce all'osservanza delle normative legali, regolamentari, contrattuali e degli standard specifici del settore relativi alla sicurezza delle informazioni.
