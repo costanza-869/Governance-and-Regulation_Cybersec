@@ -104,6 +104,9 @@ Garantisce che l'organizzazione rispetti leggi, regolamenti e standard.
 Sviluppa programmi di conformità, audit regolari e report per gli stakeholder.
 Include controlli come SSL/TLS per proteggere i dati e patch management per software non aggiornati.
 
+![image](https://github.com/user-attachments/assets/3118bb2c-61a2-4865-a899-ef67e2639fc7)
+
+
 Guida Generica per Sviluppare un Programma GRC:
 Definire scopo e obiettivi:
 
@@ -129,6 +132,8 @@ In settori come finanziario, sanitario, governativo e industriale, le normative 
 
 **Regolamento Generale sulla Protezione dei Dati (GDPR)**
 Il GDPR è una legge europea sulla protezione dei dati entrata in vigore nel maggio 2018, mirata a proteggere i dati personali degli individui. I dati personali sono definiti come "qualsiasi informazione associata a un individuo che possa identificarlo direttamente o indirettamente". I principali requisiti includono:
+
+![image](https://github.com/user-attachments/assets/637dd19d-c860-4383-9011-c59e69a7d373)
 
 Consenso preventivo: Necessario per raccogliere dati personali.
 Minimizzazione dei dati: Raccogliere solo i dati strettamente necessari.
