@@ -156,10 +156,23 @@ Creare una struttura di governance e definire ruoli e responsabilità.
 Monitorare e valutare regolarmente l'implementazione per garantire la conformità.
 Le organizzazioni devono anche stabilire sistemi di monitoraggio per rilevare e risolvere problemi di sicurezza, effettuare valutazioni e audit regolari, e migliorare continuamente l'implementazione dei controlli.
 
-**NIST 800-63B**
-NIST 800-63B è un set di linee guida sviluppate dal NIST per aiutare le organizzazioni a stabilire pratiche efficaci per l'identità digitale. Il focus principale è sull'autenticazione e la verifica dell'identità delle persone che accedono a servizi, sistemi e reti digitali. Le linee guida offrono raccomandazioni per diversi livelli di sicurezza nell'autenticazione, che vanno da livelli basilari a livelli di alta sicurezza, e forniscono indicazioni su come gestire e archiviare in modo sicuro le credenziali degli utenti, usando fattori di autenticazione come password, biometria e token.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+**Gestione della Sicurezza delle Informazioni (IS) e Conformità**
 
-In sintesi, NIST 800-53 fornisce un quadro completo di controlli di sicurezza per gestire i rischi informatici, mentre NIST 800-63B offre linee guida per garantire la sicurezza dell'autenticazione digitale e la protezione delle identità online. Entrambi sono strumenti cruciali per migliorare la sicurezza informatica e la privacy nelle organizzazioni.
+La gestione della sicurezza delle informazioni (IS) comprende la pianificazione strategica, l'esecuzione e l'amministrazione continua delle misure di sicurezza per proteggere i beni informativi da accessi, utilizzi, divulgazioni, interruzioni, alterazioni e distruzioni non autorizzate. Include la valutazione e l'identificazione dei rischi, lo sviluppo di controlli e procedure di sicurezza, la pianificazione della risposta agli incidenti e la formazione sulla sicurezza. La conformità, invece, si riferisce all'osservanza delle normative legali, regolamentari, contrattuali e degli standard specifici del settore relativi alla sicurezza delle informazioni.
+
+**ISO/IEC 27001**
+
+ISO/IEC 27001 è uno standard internazionale che stabilisce i requisiti per pianificare, sviluppare, gestire e aggiornare il Sistema di Gestione della Sicurezza delle Informazioni (ISMS) di un'organizzazione. Sviluppato dall'International Organization for Standardization (ISO) e dalla International Electrotechnical Commission (IEC), include i seguenti componenti principali:
+
+Ambito: Definisce i confini dell'ISMS, comprese le risorse e i processi coperti.
+Politica di sicurezza delle informazioni: Documento ad alto livello che definisce l'approccio dell'organizzazione alla sicurezza delle informazioni.
+Valutazione dei rischi: Identificazione e valutazione dei rischi per la riservatezza, l'integrità e la disponibilità delle informazioni.
+Trattamento dei rischi: Selezione e implementazione di controlli per ridurre i rischi a un livello accettabile.
+Dichiarazione di applicabilità (SoA): Documento che specifica quali controlli dello standard sono applicabili e quali no.
+Audit interno: Conduzione di audit periodici per garantire l'efficacia dell'ISMS.
+Revisione della gestione: Valutazione delle prestazioni dell'ISMS a intervalli regolari.
+ISO 27001 è uno standard fondamentale per garantire la gestione sicura delle informazioni e la protezione contro rischi e minacce.
 
 
 
