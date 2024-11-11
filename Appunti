@@ -115,6 +115,32 @@ Usare queste informazioni per migliorare continuamente il programma.
 Analizzare incidenti di sicurezza per identificare le cause e prevenire futuri problemi.
 Adattare il programma GRC in base al feedback e ai cambiamenti nel panorama delle minacce.
 
+Importanza della Privacy e Protezione dei Dati
+In settori come finanziario, sanitario, governativo e industriale, le normative sulla privacy e protezione dei dati sono essenziali per gestire le informazioni personali (PII) dei cittadini. Queste regolamentazioni garantiscono che i dati personali siano gestiti in modo responsabile ed etico, stabilendo fiducia, proteggendo le informazioni e assicurando la conformità normativa. Di seguito vengono illustrati i principi fondamentali delle principali normative sulla privacy.
 
+**Regolamento Generale sulla Protezione dei Dati (GDPR)**
+Il GDPR è una legge europea sulla protezione dei dati entrata in vigore nel maggio 2018, mirata a proteggere i dati personali degli individui. I dati personali sono definiti come "qualsiasi informazione associata a un individuo che possa identificarlo direttamente o indirettamente". I principali requisiti includono:
+
+Consenso preventivo: Necessario per raccogliere dati personali.
+Minimizzazione dei dati: Raccogliere solo i dati strettamente necessari.
+Misure di sicurezza: Implementare misure adeguate per proteggere i dati archiviati.
+La normativa si applica a tutte le aziende che operano nell'Unione Europea o che trattano i dati dei residenti dell'UE. Il GDPR è noto per essere uno dei regolamenti sulla privacy più rigorosi al mondo. Le aziende possono raccogliere dati personali solo per motivi legittimi e devono informare l'interessato sull'uso dei dati.
+
+Sanzioni per non conformità:
+
+Tier 1: Violazioni gravi (es. raccolta di dati non autorizzata, condivisione senza consenso) con multe fino al 4% del fatturato globale o 20 milioni di euro, a seconda di quale sia superiore.
+Tier 2: Violazioni minori (es. notifiche di violazione, politiche sulla sicurezza) con multe fino al 2% del fatturato o 10 milioni di euro, a seconda di quale sia superiore.
+
+Payment Card Industry Data Security Standard (PCI DSS)
+Il PCI DSS è uno standard che garantisce la sicurezza delle transazioni con carta e la protezione contro furti e frodi. È ampiamente utilizzato dalle aziende, in particolare per le transazioni online, ed è stato creato dai principali circuiti di carte di credito (Visa, MasterCard, American Express).
+
+Requisiti principali:
+
+Controllo rigoroso degli accessi alle informazioni dei titolari delle carte.
+Monitoraggio degli accessi non autorizzati.
+Implementazione di misure come firewall per applicazioni web e crittografia.
+Queste normative sono cruciali per proteggere la privacy degli individui, garantire la sicurezza dei dati e mantenere la fiducia dei clienti, oltre a evitare pesanti sanzioni in caso di non conformità.
+
+ 
 
 
