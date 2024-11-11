@@ -141,6 +141,29 @@ Monitoraggio degli accessi non autorizzati.
 Implementazione di misure come firewall per applicazioni web e crittografia.
 Queste normative sono cruciali per proteggere la privacy degli individui, garantire la sicurezza dei dati e mantenere la fiducia dei clienti, oltre a evitare pesanti sanzioni in caso di non conformità.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**NIST 800-53** 
+NIST 800-53 è una pubblicazione del National Institute of Standards and Technology (NIST) degli Stati Uniti, intitolata "Security and Privacy Controls for Information Systems and Organisations", che fornisce un catalogo di controlli di sicurezza per proteggere la triade CIA (Confidenzialità, Integrità, Disponibilità) dei sistemi informativi. Questa guida aiuta le organizzazioni a valutare e migliorare la sicurezza e la privacy dei loro sistemi informativi, in conformità con leggi, regolamenti e politiche. Integra le migliori pratiche provenienti da fonti come standard industriali e framework internazionali.
+
+Punti chiave: NIST 800-53 offre un set completo di controlli di sicurezza e privacy, per proteggere le operazioni aziendali, le risorse e il personale da vari rischi, come attacchi intenzionali, errori, disastri naturali e attività di intelligence estera. La Revisione 5 di NIST 800-53 organizza i controlli in 20 famiglie, ciascuna focalizzata su una categoria specifica di preoccupazioni per la sicurezza.
+
+Implementazione di un Programma di Sicurezza Basato su NIST 800-53: Una delle famiglie di controlli più rilevanti è quella della "Gestione del Programma", che richiede l'istituzione, l'implementazione e il monitoraggio di programmi di sicurezza informatica e privacy a livello aziendale. I controlli fondamentali per una gestione efficace includono:
+
+Scoprire e catalogare i beni informativi, i sistemi e le minacce.
+Mappare i controlli NIST 800-53 alle risorse e ai rischi identificati.
+Creare una struttura di governance e definire ruoli e responsabilità.
+Monitorare e valutare regolarmente l'implementazione per garantire la conformità.
+Le organizzazioni devono anche stabilire sistemi di monitoraggio per rilevare e risolvere problemi di sicurezza, effettuare valutazioni e audit regolari, e migliorare continuamente l'implementazione dei controlli.
+
+**NIST 800-63B**
+NIST 800-63B è un set di linee guida sviluppate dal NIST per aiutare le organizzazioni a stabilire pratiche efficaci per l'identità digitale. Il focus principale è sull'autenticazione e la verifica dell'identità delle persone che accedono a servizi, sistemi e reti digitali. Le linee guida offrono raccomandazioni per diversi livelli di sicurezza nell'autenticazione, che vanno da livelli basilari a livelli di alta sicurezza, e forniscono indicazioni su come gestire e archiviare in modo sicuro le credenziali degli utenti, usando fattori di autenticazione come password, biometria e token.
+
+In sintesi, NIST 800-53 fornisce un quadro completo di controlli di sicurezza per gestire i rischi informatici, mentre NIST 800-63B offre linee guida per garantire la sicurezza dell'autenticazione digitale e la protezione delle identità online. Entrambi sono strumenti cruciali per migliorare la sicurezza informatica e la privacy nelle organizzazioni.
+
+
+
+
  
 
 
