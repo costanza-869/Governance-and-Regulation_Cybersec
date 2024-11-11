@@ -174,6 +174,31 @@ Audit interno: Conduzione di audit periodici per garantire l'efficacia dell'ISMS
 Revisione della gestione: Valutazione delle prestazioni dell'ISMS a intervalli regolari.
 ISO 27001 è uno standard fondamentale per garantire la gestione sicura delle informazioni e la protezione contro rischi e minacce.
 
+Un ISMS basato sullo standard ISO 27001 richiede un'attenta progettazione e implementazione. Questo include la valutazione approfondita delle procedure di sicurezza dell'organizzazione, l'individuazione di lacune e la conduzione di una valutazione dei rischi. Sono necessari controlli chiari su aree come l'accesso e la risposta agli incidenti, allineati ai requisiti ISO 27001. Il supporto della leadership e l'allocazione di risorse sono essenziali per una corretta implementazione. Un monitoraggio continuo e miglioramenti costanti sono cruciali per garantire che l'ISMS rimanga efficace e allineato agli obiettivi aziendali.
+
+**SOC 2**
+SOC 2 è un framework di audit sviluppato dall'American Institute of Certified Public Accountants (AICPA), che valuta l'efficacia dei controlli di sicurezza di un'azienda, focalizzandosi sulla triade CIA (Confidentiality, Integrity, Availability). È fondamentale per i fornitori di servizi che trattano dati sensibili, poiché assicura ai clienti e stakeholder che l'azienda abbia controlli adeguati per proteggere i dati e le informazioni. Le aziende richiedono spesso i report SOC 2 per dimostrare il loro impegno verso la sicurezza e la privacy.
+
+SOC 2 valuta i controlli relativi a confidenzialità, disponibilità, integrità e privacy.
+Gli audit sono condotti da revisori indipendenti per garantire che i controlli soddisfino i criteri stabiliti.
+I report SOC 2 sono utilizzati per informare clienti e stakeholder sulle pratiche di sicurezza e privacy di un'organizzazione, come la protezione dei dati in ambienti cloud.
+Protezione offerta da SOC 2
+SOC 2 garantisce che i fornitori di terze parti trattino e archivino in modo sicuro informazioni sensibili.
+
+Pianificazione e Audit SOC 2
+I passaggi per la pianificazione e l'esecuzione di un audit SOC 2 includono:
+
+Definire la portata dell'audit, individuando i sistemi e le aree critiche.
+Selezionare un auditor esperto in SOC 2.
+Pianificare l'audit con l'auditor, definendo tempi e criteri.
+Prepararsi per l'audit rivedendo politiche, controlli e procedure di sicurezza.
+Condurre l'audit con test dei controlli, interviste e revisioni documentali.
+Ricevere il report finale, che descrive i controlli, le lacune identificate e le raccomandazioni per il miglioramento.
+
+
+
+
+
 
 
 
