@@ -1,4 +1,5 @@
 **Terminologia Importante**
+
 Governance: La gestione e direzione di un'organizzazione o sistema per raggiungere i propri obiettivi e garantire il rispetto di leggi, regolamenti e standard.
 Regolamento: Una norma o legge applicata da un ente di governo per garantire conformità e protezione da possibili danni.
 Conformità (Compliance): Lo stato di adesione a leggi, regolamenti e standard applicabili a un'organizzazione o sistema.
@@ -13,6 +14,7 @@ Gestione del Rischio: Condurre valutazioni del rischio per identificare minacce 
 Misurazione delle Prestazioni: Utilizzare metriche e indicatori chiave (KPI) per valutare l'efficacia del programma di sicurezza.
 Compliance: Assicurare il rispetto delle normative e delle migliori pratiche del settore.
 
+![Foto 1](https://github.com/user-attachments/assets/a6a4349f-cc5e-48df-a541-0e89f302ce94)
 
 **Regolamentazione della Sicurezza delle Informazioni**
 La regolamentazione della sicurezza delle informazioni riguarda i quadri legali che disciplinano l'uso e la protezione dei dati. Queste normative proteggono i dati sensibili da accessi non autorizzati e violazioni. La conformità è obbligatoria e generalmente imposta da agenzie governative.
@@ -22,6 +24,7 @@ HIPAA: Protezione dei dati sanitari negli Stati Uniti.
 PCI DSS: Sicurezza dei dati delle carte di pagamento.
 GLBA (Gramm-Leach-Bliley Act): Protezione delle informazioni personali nelle istituzioni finanziarie.
 
+
 **Benefici della Governance e Regolamentazione della Sicurezza**
 Miglior Posizione di Sicurezza: Riduzione dei rischi di violazioni e protezione dei dati sensibili.
 Aumento della Fiducia degli Stakeholder: Dimostrare un impegno serio verso la sicurezza può rafforzare la fiducia degli stakeholder.
@@ -29,6 +32,9 @@ Conformità Normativa: Evitare sanzioni legali e danni reputazionali rispettando
 Allineamento con gli Obiettivi Aziendali: Assicurare che le misure di sicurezza supportino gli obiettivi di business.
 Decisioni Informate: Fornire ai dirigenti le informazioni necessarie per gestire i rischi informatici.
 Vantaggio Competitivo: Dimostrare impegno nella protezione dei dati può offrire un vantaggio sul mercato.
+
+![Foto 2](https://github.com/user-attachments/assets/442a8844-a062-4c86-a2a1-3f2e1e7a1d39)
+
 
 **Leggi e Regolamenti Rilevanti**
 
@@ -57,7 +63,10 @@ Bozza del documento: Creare una struttura e redigere il documento in modo chiaro
 Revisione e approvazione: Far rivedere il documento da esperti interni e ottenere l'approvazione finale dai responsabili.
 Implementazione e comunicazione: Comunicare il documento a tutti i dipendenti coinvolti e garantire che comprendano le loro responsabilità tramite programmi di formazione.
 Revisione e aggiornamento: Aggiornare periodicamente il documento per mantenerlo rilevante e conforme al panorama delle minacce e alle normative in evoluzione.
-Esempi Pratici
+
+ ![image](https://github.com/user-attachments/assets/85fba5a9-8ab6-43d8-be8d-d3d53e14268b)
+
+
 Creazione di una Password Policy:
 
 Definire requisiti minimi (lunghezza, complessità).
