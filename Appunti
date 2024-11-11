@@ -30,7 +30,6 @@ Allineamento con gli Obiettivi Aziendali: Assicurare che le misure di sicurezza 
 Decisioni Informate: Fornire ai dirigenti le informazioni necessarie per gestire i rischi informatici.
 Vantaggio Competitivo: Dimostrare impegno nella protezione dei dati può offrire un vantaggio sul mercato.
 
-
 **Leggi e Regolamenti Rilevanti**
 
 1. **GDPR**	regola rigorosamente come le organizzazioni gestiscono i dati personali dei cittadini dell'UE.
@@ -38,3 +37,49 @@ Vantaggio Competitivo: Dimostrare impegno nella protezione dei dati può offrire
 3. **PCI DSS**	(Finanziario)	Stabilisce requisiti per la sicurezza dei dati delle carte di pagamento.
 4. **GLBA**	(Finanziario)	Protegge le informazioni non pubbliche dei clienti nelle istituzioni finanziarie.
 Questi quadri legali stabiliscono standard minimi per la sicurezza e promuovono responsabilità e fiducia nell'ecosistema digitale.
+
+
+**Framework di Sicurezza delle Informazioni**
+
+Un framework di sicurezza delle informazioni è un insieme completo di documenti che delineano l'approccio di un'organizzazione alla sicurezza delle informazioni, regolando come la sicurezza viene implementata, gestita e applicata. Comprende principalmente:
+
+Politiche: Dichiarazioni formali che definiscono obiettivi, principi e linee guida per raggiungere specifici obiettivi di sicurezza.
+Standard: Documenti che stabiliscono requisiti o specifiche per determinati processi, prodotti o servizi.
+Linee Guida: Raccomandazioni e best practice (non obbligatorie) per raggiungere obiettivi specifici.
+Procedure: Una serie di passaggi dettagliati per eseguire un compito specifico.
+Baseline: Set di requisiti minimi di sicurezza che un'organizzazione o un sistema deve rispettare.
+Sviluppo di Documenti di Governance
+Ecco i passaggi generali per sviluppare politiche, standard, linee guida e procedure:
+
+Identificare l'ambito e lo scopo: Determinare cosa coprirà il documento e perché è necessario (es. una policy sulle password per garantire la sicurezza delle credenziali).
+Ricerca e revisione: Consultare leggi, regolamenti, standard di settore e best practice per assicurarsi che il documento sia aggiornato e completo.
+Bozza del documento: Creare una struttura e redigere il documento in modo chiaro e conciso, allineato agli obiettivi e valori aziendali.
+Revisione e approvazione: Far rivedere il documento da esperti interni e ottenere l'approvazione finale dai responsabili.
+Implementazione e comunicazione: Comunicare il documento a tutti i dipendenti coinvolti e garantire che comprendano le loro responsabilità tramite programmi di formazione.
+Revisione e aggiornamento: Aggiornare periodicamente il documento per mantenerlo rilevante e conforme al panorama delle minacce e alle normative in evoluzione.
+Esempi Pratici
+Creazione di una Password Policy:
+
+Definire requisiti minimi (lunghezza, complessità).
+Stabilire linee guida sull'uso delle password (es. non riutilizzare o condividere password).
+Implementare criteri di archiviazione sicura e trasmissione protetta.
+Comunicare la policy e monitorarne la conformità.
+Preparazione di una Procedura di Risposta agli Incidenti:
+
+Identificare i tipi di incidenti (accessi non autorizzati, malware, ecc.).
+Definire ruoli e responsabilità (team di risposta, personale IT, legale, ecc.).
+Creare passaggi dettagliati per il contenimento, l'analisi e la mitigazione degli incidenti.
+Documentare e comunicare le procedure e aggiornarle periodicamente.
+Utilizzo di Framework Esistenti
+Le organizzazioni non devono necessariamente creare da zero documenti standard, ma possono utilizzare framework già esistenti specifici per il loro settore. Ad esempio:
+
+Settore finanziario: PCI-DSS, GLBA.
+Settore sanitario: HIPAA.
+La scelta del framework da seguire dipende da vari fattori come requisiti normativi, ambito, obiettivi e risorse disponibili.
+
+
+
+
+
+
+
