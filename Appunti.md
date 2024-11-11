@@ -192,6 +192,8 @@ Audit interno: Conduzione di audit periodici per garantire l'efficacia dell'ISMS
 Revisione della gestione: Valutazione delle prestazioni dell'ISMS a intervalli regolari.
 ISO 27001 è uno standard fondamentale per garantire la gestione sicura delle informazioni e la protezione contro rischi e minacce.
 
+![image](https://github.com/user-attachments/assets/127fa128-d475-4d4b-970e-7a175fe69edb)
+
 Un ISMS basato sullo standard ISO 27001 richiede un'attenta progettazione e implementazione. Questo include la valutazione approfondita delle procedure di sicurezza dell'organizzazione, l'individuazione di lacune e la conduzione di una valutazione dei rischi. Sono necessari controlli chiari su aree come l'accesso e la risposta agli incidenti, allineati ai requisiti ISO 27001. Il supporto della leadership e l'allocazione di risorse sono essenziali per una corretta implementazione. Un monitoraggio continuo e miglioramenti costanti sono cruciali per garantire che l'ISMS rimanga efficace e allineato agli obiettivi aziendali.
 
 **SOC 2**
